@@ -1,7 +1,7 @@
 matplotlib==3.8.0
-numpy==1.23.2
+numpy==1.26
 pandas==2.1.4
-pip==23.3.2
+pip==24.3.1
 scikit-learn==1.2
 spyder-kernels==2.5.0
 xgboost==2.0.3
