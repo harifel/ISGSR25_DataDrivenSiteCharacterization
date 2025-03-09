@@ -26,7 +26,7 @@ To achieve this, create an environment named `venv` and label it as DataDriven (
 C:\Users\haris\Documents\GitHub\ISGSR25_DataDrivenSiteCharacterization>C:\Users\haris\AppData\Local\Programs\Python\Python311\python -m venv DataDriven
 ```
 ```bash
->C:\Users\haris\AppData\Local\Programs\Python\Python311\python -m venv DataDriven
+C:\Users\haris\AppData\Local\Programs\Python\Python311\python -m venv DataDriven
 ```
 
 Activate the new environment with:
