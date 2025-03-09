@@ -35,6 +35,3 @@ Then, install all packages using 'environment.txt'. If you encounter pip errors,
 ```bash
 (venv) C:\Users\haris\Documents\GitHub\ISGSR25_DataDrivenSiteCharacterization>py -m pip install -r environment.txt
 ```
-
-## Database for Machine Learning
-The database for shear wave **xxxxxxxxxxxxx **is accessible on the website of the [Computational Geotechnics Group (Graz University of Technology)](https://www.tugraz.at/fileadmin/user_upload/Institute/IBG/Datenbank/Database_CPT_PremstallerGeotechnik.zip). A description of the database itself can be found in the paper by Oberhollenzer et al. (2021) - DOI: https://doi.org/10.1016/j.dib.2020.106618
