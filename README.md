@@ -2,7 +2,7 @@
 
 This repository contains the code used in the conference paper presented at the [9th International Symposium for Geotechnical Safety and Risk (ISGSR)](https://www.isgsr2025.com). The paper details the training of machine learning models to obtain soil property estimates based on in-situ tests.
 
-The conference paper can be found here: [A DATA-DRIVEN APPROACH FOR SOIL PARAMETER DETERMINATION USING SUPERVISED MACHINE LEARNING](https://www.researchgate.net/publication/395129478_A_data-driven_approach_for_soil_parameter_determination_using_supervised_machine_learning)) - DOI: [10.3850/GRF-25280825_isgsr-156-P210-cd](10.3850/GRF-25280825_isgsr-156-P210-cd)
+The conference paper can be found here: [A DATA-DRIVEN APPROACH FOR SOIL PARAMETER DETERMINATION USING SUPERVISED MACHINE LEARNING](https://www.researchgate.net/publication/395129478_A_data-driven_approach_for_soil_parameter_determination_using_supervised_machine_learning) - DOI: [10.3850/GRF-25280825_isgsr-156-P210-cd](10.3850/GRF-25280825_isgsr-156-P210-cd)
 
 ## Folder structure
 
